@@ -10,9 +10,6 @@ This project aims to predict customer churn using machine learning algorithms. C
 - [Feature Engineering](#feature-engineering)
 - [Model Building](#model-building)
 - [Model Evaluation](#model-evaluation)
-- [Hyperparameter Tuning](#hyperparameter-tuning)
-- [How to Run](#how-to-run)
-- [Results](#results)
 
 ## Project Overview
 The goal of this project is to predict whether a customer will churn (stop using the service) based on the available features in the dataset. We utilize machine learning algorithms to achieve this, and also perform exploratory data analysis, feature scaling, and hyperparameter tuning.
